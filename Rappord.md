@@ -1,6 +1,9 @@
-# Kawtar GOUY           
+# Kawtar GOUY 
+
 # 4IIR G2
-# Titre du projet: Online Shopping
+# Titre du projet: Online Shopping!
+[image kawtarjpg](https://github.com/user-attachments/assets/3d1a1607-8b1b-4d61-aad5-7aa52c19ab4f)
+
 <img width="724" height="700" alt="12-class-diagram-online-shopping" src="https://github.com/user-attachments/assets/bc59ea05-0443-4af8-b02a-d1947ef9e771" />
 
 # Rapport de Projet  
