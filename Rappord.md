@@ -2,7 +2,14 @@
 
 # 4IIR G2
 # Titre du projet: Online Shopping!
-[image kawtarjpg](https://github.com/user-attachments/assets/3d1a1607-8b1b-4d61-aad5-7aa52c19ab4f)
+
+
+![image kawtarjpg](https://github.com/user-attachments/assets/c58cdd8e-05c0-4158-8c51-8e1cc5756da7)
+
+
+
+
+
 
 <img width="724" height="700" alt="12-class-diagram-online-shopping" src="https://github.com/user-attachments/assets/bc59ea05-0443-4af8-b02a-d1947ef9e771" />
 
